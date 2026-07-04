@@ -1,7 +1,6 @@
 # data-analytics-dashboard
 Sales Dashboard – Data Analytics Project-2026
 <br>
-
 I'm excited to share my latest dashboard, designed for real time performance tracking and analysis 
 <br>
 ## Dataset used 
@@ -120,3 +119,7 @@ Pivot Tables
 Interactive Dashboard
 <br>
 Project Screenshots
+<br>
+<img width="1827" height="601" alt="Dashboard" src="https://github.com/user-attachments/assets/d0527d7f-ee49-4fc5-b673-e3765216b1ef" />
+<br>
+#Microsoft Excel #Pivot Tables #Pivot Charts #Slicers #Conditional Formatting #Excel Formulas (XLOOKUP, VLOOKUP, IF, SUMIFS, COUNTIFS, INDEX-MATCH, etc.#Data Validation
