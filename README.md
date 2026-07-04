@@ -5,8 +5,10 @@ Sales Dashboard – Data Analytics Project-2026
 I'm excited to share my latest dashboard, designed for real time performance tracking and analysis 
 <br>
 ## Dataset used 
-- <a href="
+- <a href="https://github.com/dimpalmahour337-arch/data-analytics-dashboard/blob/main/Random_Company_Sales_Dataset.xlsx"> Dataset view 
 <br>
+## Dashboard view
+- <a href="
 
 Project Owerview
 <br>
